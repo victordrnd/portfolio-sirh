@@ -92,3 +92,8 @@ p {
     margin-top : 4rem!important;
     margin-bottom : 4rem!important;
 }
+
+.ant-tree.ant-tree-directory > li.ant-tree-treenode-selected > span.ant-tree-node-content-wrapper::before, .ant-tree.ant-tree-directory .ant-tree-child-tree > li.ant-tree-treenode-selected > span.ant-tree-node-content-wrapper::before{
+    background: rgb(38,132,214);
+    background: linear-gradient(90deg, rgba(38,132,214,1) 0%, rgba(236,243,250,1) 100%);
+}
