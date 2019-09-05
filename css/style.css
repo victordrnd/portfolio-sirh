@@ -97,3 +97,11 @@ p {
     background: rgb(38,132,214);
     background: linear-gradient(90deg, rgba(38,132,214,1) 0%, rgba(236,243,250,1) 100%) !important;
 }
+li {
+    font-size: 16px;
+    line-height: 1.75;
+    font-family: Apercu,Helvetica,sans-serif;
+    font-weight: 300;
+    color: #000;
+    margin-bottom: 20px;
+  }
