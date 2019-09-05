@@ -1,15 +1,11 @@
 {
   "files": {
-    "main.js": "/portfolio-sirh/static/js/main.c9402523.chunk.js",
-    "main.js.map": "/portfolio-sirh/static/js/main.c9402523.chunk.js.map",
+    "main.js": "/portfolio-sirh/static/js/main.ced2c8f4.chunk.js",
     "runtime~main.js": "/portfolio-sirh/static/js/runtime~main.f0caaf13.js",
-    "runtime~main.js.map": "/portfolio-sirh/static/js/runtime~main.f0caaf13.js.map",
-    "static/css/2.59ca6ef4.chunk.css": "/portfolio-sirh/static/css/2.59ca6ef4.chunk.css",
-    "static/js/2.7449658e.chunk.js": "/portfolio-sirh/static/js/2.7449658e.chunk.js",
-    "static/js/2.7449658e.chunk.js.map": "/portfolio-sirh/static/js/2.7449658e.chunk.js.map",
+    "static/css/2.bb4fd086.chunk.css": "/portfolio-sirh/static/css/2.bb4fd086.chunk.css",
+    "static/js/2.579057f4.chunk.js": "/portfolio-sirh/static/js/2.579057f4.chunk.js",
     "index.html": "/portfolio-sirh/index.html",
-    "precache-manifest.af805b49d1735e4622c1d07582f244a1.js": "/portfolio-sirh/precache-manifest.af805b49d1735e4622c1d07582f244a1.js",
-    "service-worker.js": "/portfolio-sirh/service-worker.js",
-    "static/css/2.59ca6ef4.chunk.css.map": "/portfolio-sirh/static/css/2.59ca6ef4.chunk.css.map"
+    "precache-manifest.3914ec87a89b696eee491989f4727952.js": "/portfolio-sirh/precache-manifest.3914ec87a89b696eee491989f4727952.js",
+    "service-worker.js": "/portfolio-sirh/service-worker.js"
   }
 }
